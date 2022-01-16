@@ -1,5 +1,6 @@
 # chatting-app
-2020-2 Network Project
+2020학년도 2학기 네트워크 과제
+- 웹 상에서 여러 명의 사용자가 이용할 수 있는 채팅 앱 만들기
 
 ### Functions
 User
